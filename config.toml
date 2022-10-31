@@ -1,17 +1,27 @@
-baseURL = "https://hugo-theme-shell.netlify.app/"
+baseURL = "https://www.mahoo12138.cn/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hi, This is Mahoo12138!"
 theme = "hugo-theme-shell"
 
 [Params]
     [Params.Terminal]
     schema = "monokai"
+    userName = "mahoo12138"
+    pcName = "MahooPC"
+    workDir = "workbench"
+    profile = "profile.txt"
+    description = """
+      Hi I am Mahoo12138!
+      Nice to meet you!
+    """
 
     [Params.Tree]
     use = true
+    folderName = "my_websites"
     files = [
-        ["C/C++", "https://www.example.com/"],
-        ["Python", "https://www.example.com/"],
-        ["Go", "/works/go.md"],
-        ["Hugo", "/works/hugo.md"]
+        ["Blog", "https://blog.mahoo12138.cn/"],
+        ["Note", "https://note.mahoo12138.cn/"],
+        ["Docs", "https://doc.mahoo12138.cn/"],
+        ["Memos", "https://memos.mahoo12138.cn/"],
+        ["Sheet", "https://mm.mahoo12138.cn/"],
     ]
