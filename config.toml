@@ -21,7 +21,7 @@ theme = "hugo-theme-shell"
     files = [
         ["Blog", "https://blog.mahoo12138.cn/"],
         ["Note", "https://note.mahoo12138.cn/"],
-        ["Docs", "https://doc.mahoo12138.cn/"],
-        ["Memos", "https://memos.mahoo12138.cn/"],
         ["Sheet", "https://mm.mahoo12138.cn/"],
+        ["Drive", "https://yun.mahoo12138.cn/"],
+        ["Music", "https://music.mahoo12138.cn/"],
     ]
